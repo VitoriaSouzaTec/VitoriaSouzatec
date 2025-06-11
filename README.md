@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Vitória Souza</h1>
-<h3 align="center">Uma estudante Full Stack apaixonada por gatinhos</h3>
+<h3 align="center">Uma estudante Full Stack</h3>
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -11,10 +11,7 @@
 
 - 📫 Como entrar em contato comigo: **vitoriasouzatec@gmail.com**
 
-- ⚡ **Curiosidades:**  
-  🌿 Sou apaixonado pela natureza — lugares verdes, trilhas e liberdade me renovam.  
-  🎶 Amo música! Sei tocar teclado, violão e violino, e estou sempre com alguma musica na cabeça.  
-  🏍️ Amo adrenalina: já pratiquei motocross, ciclismo, vôlei e agora estou curtindo tênis.
+
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
